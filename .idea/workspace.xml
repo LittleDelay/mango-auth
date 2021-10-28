@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="da245c3f-c8ce-4b08-b026-ca52f16f85d3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mango/auth/MangoAuthApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mango/auth/config/AuthorizationServerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mango/auth/config/JwtTokenEnhancer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mango/auth/config/JwtTokenStoreConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mango/auth/config/ResourceServerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mango/auth/config/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mango/auth/controller/TestUserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mango/auth/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mango/auth/domain/model/SecurityUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mango/auth/domain/param/req/ReqUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mango/auth/service/MyUserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mango/auth/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mango/auth/service/impl/MyUserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mango/auth/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mango/auth/utils/tkmybatis/BaseMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/banner.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/config/application-dev.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/config/application-prod.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/config/application-test.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/config/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/generator/generator.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/generator/generatorConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/package.info" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven_repository" />
+        <option name="mavenHome" value="D:\soft\apache-maven-3.8.3" />
+        <option name="userSettingsFile" value="D:\soft\apache-maven-3.8.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Xmx1024m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1zlDb2OEczoZ6GLgEGFfr6zmqC0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../workspace/bzn-management" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.41606715" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\xs_work\mango-auth\src\main\resources" />
+      <recent name="D:\xs_work\mango-auth\src\main\resources\config" />
+      <recent name="D:\xs_work\mango-auth\src\main\resources\generator" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\xs_work\mango-auth\src\main\resources\mapper\user" />
+      <recent name="D:\xs_work\mango-auth\src\main\resources\mapper" />
+      <recent name="D:\xs_work\mango-auth\src\main\resources" />
+      <recent name="D:\xs_work\mango-auth\src\main\resources\config" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.mango.auth.utils.tkmybatis" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MangoAuth" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mango-auth" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mango.auth.MangoAuthApplication" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\gyj\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="da245c3f-c8ce-4b08-b026-ca52f16f85d3" name="Default Changelist" comment="" />
+      <created>1634713848770</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1634713848770</updated>
+      <workItem from="1634713853406" duration="411000" />
+      <workItem from="1634725338443" duration="2007000" />
+      <workItem from="1634780922776" duration="3463000" />
+      <workItem from="1634784425136" duration="85000" />
+      <workItem from="1634784561828" duration="2829000" />
+      <workItem from="1634788128300" duration="15880000" />
+      <workItem from="1634956516257" duration="1209000" />
+      <workItem from="1635125584631" duration="81000" />
+      <workItem from="1635152055509" duration="138000" />
+      <workItem from="1635152608650" duration="596000" />
+      <workItem from="1635408046312" duration="1415000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/mango/auth/controller/TestUserController.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
